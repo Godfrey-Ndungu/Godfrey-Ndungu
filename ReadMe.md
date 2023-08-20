@@ -1,4 +1,4 @@
-### <div align="center">Godfrey</div>  
+### <div align="center">Godfrey Ndungu</div>  
   
 
 - I'm passionate about building usable and practical solutions.  
